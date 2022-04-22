@@ -717,6 +717,12 @@
     .contact-text p {
         margin-bottom: 35px;
     }
+    .footer-text {
+        margin-bottom: 0;
+    }
+    .footer-text h4 {
+        line-height: 13px;
+    }
 }
 
 /*================================================
@@ -778,7 +784,13 @@
     .navbar-expand-lg .navbar-nav .nav-item:hover::after {
         display: none;
     }
+    .navbar-expand-lg .navbar-nav .nav-link::after {
+        display: none;
+    }
     .navbar-expand-lg .navbar-nav .nav-link::before {
+        display: none;
+    }
+    .navbar-expand-lg .navbar-nav .nav-item:hover::before {
         display: none;
     }
     .nav-right .nav-align a i {
@@ -830,6 +842,9 @@
     .service-content {
         margin-top: 80px;
     }
+    .service-img::after {
+        left: -32px;
+    }
     
     /* about part */
     .about-img {
@@ -866,6 +881,9 @@
     }
     .port-img {
         margin-bottom: 40px;
+    }
+    .port-btm-overlay-text h4 {
+        margin-top: 325px;
     }
 
      /* blog part */
