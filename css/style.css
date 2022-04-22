@@ -2099,25 +2099,3 @@ html,body{
 .copy-content p span:hover{
     border-bottom: 1px solid #ffca36;
 }
-
-/* ===== Scrollbar CSS ===== */
-  /* Firefox */
-  * {
-    scrollbar-width: auto;
-    scrollbar-color: #ffca36;
-    
-  }
-
-  /* Chrome, Edge, and Safari */
-  *::-webkit-scrollbar {
-    width: 10px;
-  }
-
-  *::-webkit-scrollbar-track {
-    background: #ffca36;
-  }
-
-  *::-webkit-scrollbar-thumb {
-    background: #ff0000;
-    border-radius: 10px;
-  }

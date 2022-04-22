@@ -3,34 +3,34 @@
  =============================================*/
  @media (min-width:1400px){
     /* banner part */
-    /* .left-angle {
+    .left-angle {
         display: none;
     }
     .right-angle {
         display: none;
-    } */
+    }
     /* blog-part */
-    /* .blog-right-angle {
+    .blog-right-angle {
         display: none;
     }
     .blog-left-angle {
         display: none;
-    } */
+    }
 
     /* testimonial part */
-    /* .testimonial-right-angle {
+    .testimonial-right-angle {
         display: none;
     }
     .testimonial-left-angle {
         display: none;
-    } */
+    }
     /* brand part */
-    /* .brand-left-angle {
+    .brand-left-angle {
         display: none;
     }
     .brand-right-angle {
         display: none;
-    } */
+    }
  }
 /*=============================================
   Extra-large device  
